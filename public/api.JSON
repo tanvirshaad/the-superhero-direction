@@ -1,0 +1,11 @@
+[
+    {"img":"https://static.wikia.nocookie.net/breakingbad/images/3/34/Cranston.jpg/revision/latest/top-crop/width/360/height/450?cb=20200704201650","name":"Bryan Cranston","age":65,"known_for":"Breaking Bad","country":"USA","salary":75000},
+    {"img":"https://static.wikia.nocookie.net/disney/images/b/bf/Aaron_Paul.jpg/revision/latest?cb=20180116155548","name":"Aaron Paul","age":42,"known_for":"Breaking Bad","country":"USA","salary":68000},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9l_B0uerGxXJ9k8Pnjgqzk_Gs3kQYEdV3g&usqp=CAU","name":"Bob Odenkirk","age":58,"known_for":"Better Call Saul","country":"USA","salary":67000},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjpmcBz9hXlslbd3LDEjE1dx1RORyb9ZT8-Q&usqp=CAU","name":"Giancarlo Esposito","age":63,"known_for":"Breaking Bad","country":"Denmark","salary":54000},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT70IV3JAlIePH9XYwaNOPVyuFi8PCa7z_RHQ&usqp=CAU","name":"Wentworth Miller","age":49,"known_for":"Prison Break","country":"Uk","salary":79000},
+    {"img":"https://static.wikia.nocookie.net/batman/images/f/f8/Fichtner.jpg/revision/latest?cb=20210511215557","name":"William Fichtner","age":64,"known_for":"Prison Break","country":"USA","salary":66000},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpnPwcvhGzrQDRGcTaCXF4tEFhakNHkvD16Q&usqp=CAU","name":"Sarah Wayne Callies","age":44,"known_for":"Breaking Bad","country":"USA","salary":50000},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgn9NEUcXx-lFI-fk84VUyfMGVmdMHogwF0Q&usqp=CAU","name":"Tom Hanks","age":65,"known_for":"Breaking Bad","country":"USA","salary":80000},
+    {"img":"https://www.bollywoodhungama.com/wp-content/uploads/2020/02/srk.jpg","name":"Shah Rukh Khan","age":55,"known_for":"Don","country":"India","salary":75000},{"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQOpE1Bq5N-bCwU7YstWHmvnmf_iEfxoeGOA&usqp=CAU","name":"Shakib Khan","age":42,"known_for":"Hero: The super star","country":"Bangladesh","salary":40000}
+]

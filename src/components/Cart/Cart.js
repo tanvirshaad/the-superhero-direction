@@ -11,7 +11,7 @@ const Cart = (props) => {
     }
     return (
         <div className="cart rounded-3">
-            <h2 className="cart-title rounded">Cart</h2>
+            <h2 className="cart-title rounded">Actor</h2>
             <h5 className="">
                 Actor Added:{' '}
                 <span className="actor-count">{props.cart.length}</span>

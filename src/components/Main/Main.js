@@ -4,6 +4,7 @@ import Cart from '../Cart/Cart';
 import './Main.css';
 
 const Main = () => {
+    //using state
     const [actors, setActors] = useState([]);
     const [cart, setCart] = useState([]);
     useEffect(() => {

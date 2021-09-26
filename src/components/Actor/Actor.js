@@ -4,7 +4,7 @@ import { faHandsHelping } from '@fortawesome/free-solid-svg-icons';
 import './Actor.css';
 
 const Actor = (props) => {
-    // console.log(props);
+    //destructuring
     const { name, img, age, known_for, country, salary } = props.actor;
     return (
         <div className="">
@@ -15,12 +15,12 @@ const Actor = (props) => {
                     alt=""
                 />
                 <div className="card-body text-center">
-                    <h5 className="card-title fw-bold">{name}</h5>
+                    <h4 className="card-title fw-bold">{name}</h4>
                     <p className="card-text">
                         <p>Age: {age}</p>
                         <p>Country: {country}</p>
                         <p>Known For: {known_for}</p>
-                        <p>Salary: {salary}</p>
+                        <p>Salary: ${salary}</p>
                     </p>
                 </div>
                 <div className="card-footer text-center">

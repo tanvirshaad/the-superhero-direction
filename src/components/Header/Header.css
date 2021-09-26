@@ -1,4 +1,8 @@
 .header {
-    background-color: darkseagreen;
+    background-color: #fecc00;
     border-radius: 0 0 10px 10px;
+}
+.header-title {
+    color: #103178;
+    font-weight: 700;
 }

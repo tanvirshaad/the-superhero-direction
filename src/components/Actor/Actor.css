@@ -1,8 +1,12 @@
 .fix-height {
     background-color: #fff;
-    border: 2px solid #39a2db;
+    border: 2px solid #103178;
     border-radius: 5px;
 }
 .img-height {
     max-height: 300px;
+}
+.btn-pick {
+    background-color: #103178;
+    color: #fff;
 }

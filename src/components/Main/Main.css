@@ -1,5 +1,5 @@
 .actor-container {
-    background-color: #a2dbfa;
+    background-color: #fecc00;
     border-radius: 10px;
 }
 .grid-layout {
@@ -8,8 +8,4 @@
     row-gap: 10px;
     column-gap: 10px;
     padding: 0px 0px 10px 0px;
-}
-.cart-container {
-    border: 2px solid springgreen;
-    border-radius: 10px;
 }

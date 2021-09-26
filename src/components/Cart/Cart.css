@@ -1,0 +1,15 @@
+.cart {
+    background-color: #103178;
+    color: #fff;
+    padding: 40px;
+}
+.cart-title {
+    background-color: #fecc00;
+    color: #103178;
+}
+.actor-count {
+    color: #fecc00;
+}
+.total-count {
+    color: #fecc00;
+}

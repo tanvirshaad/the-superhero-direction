@@ -15,7 +15,7 @@ const Actor = (props) => {
                     alt=""
                 />
                 <div className="card-body text-center">
-                    <h5 className="card-title">{name}</h5>
+                    <h5 className="card-title fw-bold">{name}</h5>
                     <p className="card-text">
                         <p>Age: {age}</p>
                         <p>Country: {country}</p>
@@ -26,7 +26,7 @@ const Actor = (props) => {
                 <div className="card-footer text-center">
                     <button
                         onClick={() => props.handleAddPlayer(props.actor)}
-                        className="btn-danger border-0 rounded px-5 py-2"
+                        className="btn-pick border-0 rounded px-5 py-2"
                     >
                         <FontAwesomeIcon icon={faHandsHelping} /> Pick
                     </button>

@@ -4,7 +4,7 @@ import './Header.css';
 const Header = () => {
     return (
         <div className="header text-center p-3">
-            <h3 className="">Let's Make Your Dream Film</h3>
+            <h1 className="header-title">Let's Make Your Dream Film</h1>
             <h5 className="text-muted">
                 Pick your favourite actor and make your dream true!
             </h5>

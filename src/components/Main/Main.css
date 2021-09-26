@@ -1,7 +1,15 @@
 .actor-container {
-    background-color: aquamarine;
+    background-color: #a2dbfa;
+    border-radius: 10px;
 }
 .grid-layout {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    row-gap: 10px;
+    column-gap: 10px;
+    padding: 0px 0px 10px 0px;
+}
+.cart-container {
+    border: 2px solid springgreen;
+    border-radius: 10px;
 }

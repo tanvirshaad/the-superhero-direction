@@ -1,4 +1,6 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faUsers } from '@fortawesome/free-solid-svg-icons';
 import './Cart.css';
 
 const Cart = (props) => {
@@ -11,7 +13,9 @@ const Cart = (props) => {
     }
     return (
         <div className="cart rounded-3">
-            <h2 className="cart-title rounded">Actor</h2>
+            <h2 className="cart-title rounded">
+                {<FontAwesomeIcon icon={faUsers} />}
+            </h2>
             <h5 className="">
                 Actor Added:{' '}
                 <span className="actor-count">{props.cart.length}</span>
@@ -19,13 +23,11 @@ const Cart = (props) => {
             <h4>
                 Total: $<span className="total-count">{total}</span>
             </h4>
-            <p>
-                {' '}
-                <h4>Added:</h4>
-                {cart.map((item) => (
-                    <li className="added-actor">{item.name}</li>
-                ))}
-            </p>
+
+            <h4>Added:</h4>
+            {cart.map((item) => (
+                <li className="added-actor">{item.name}</li>
+            ))}
         </div>
     );
 };
